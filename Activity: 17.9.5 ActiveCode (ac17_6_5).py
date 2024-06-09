@@ -1,0 +1,1 @@
+london_gold = nested_d['London']['Great Britain']
